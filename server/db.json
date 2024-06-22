@@ -1,0 +1,312 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Sofa Modern",
+      "price": 499.99,
+      "quantity": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYu-VZtgVAtiJtY0JXTHPH94hiTIcGN5G_w&s",
+      "description": "Современный диван с мягкой обивкой и стильным дизайном. Идеально подходит для гостиной.",
+      "features": [
+        "Высококачественная обивка",
+        "Стильный дизайн",
+        "Прочный каркас"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dining Table Set",
+      "price": 799.99,
+      "quantity": 5,
+      "image": "https://furniture123.co.uk/Images/BUNRNE00187524_1_Supersize.jpg?v=15",
+      "description": "Комплект обеденного стола и 6 стульев, выполненный из высококачественного дерева.",
+      "features": [
+        "Натуральное дерево",
+        "6 стульев в комплекте",
+        "Прочный и долговечный"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Wardrobe Classic",
+      "price": 599.99,
+      "quantity": 3,
+      "image": "https://whitecompany.scene7.com/is/image/whitecompany/Classic-Large-Wardrobe/CLFLW_AW13_15_F?$D_PDP_412x412$",
+      "description": "Классический шкаф с 3 дверями и большим количеством места для хранения.",
+      "features": [
+        "Большое пространство для хранения",
+        "Классический дизайн",
+        "Прочные двери"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Office Chair Ergonomic",
+      "price": 249.99,
+      "quantity": 8,
+      "image": "https://media.4rgos.it/s/Argos/8340865_R_SET?$Main768$&w=620&h=620",
+      "description": "Эргономичное офисное кресло с поддержкой поясницы и регулируемой высотой.",
+      "features": [
+        "Поддержка поясницы",
+        "Регулируемая высота",
+        "Комфортное сидение"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Bed King Size",
+      "price": 899.99,
+      "quantity": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmWwn-HIxqxhsEf19KZzXRYI4eYGyxjZang&s",
+      "description": "Кровать King Size с мягким изголовьем и прочным каркасом. Идеальна для комфортного сна.",
+      "features": [
+        "Мягкое изголовье",
+        "Прочный каркас",
+        "Большой размер"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Bookshelf Modern",
+      "price": 199.99,
+      "quantity": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDm7EJmE_dpKX2gzXnZGi8rLDhcyepKdrQw&s",
+      "description": "Современный книжный шкаф с множеством полок для хранения книг и декора.",
+      "features": [
+        "Множество полок",
+        "Современный дизайн",
+        "Прочная конструкция"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Coffee Table Minimalist",
+      "price": 149.99,
+      "quantity": 4,
+      "image": "https://m.media-amazon.com/images/I/716e9A-NIBL.jpg",
+      "description": "Минималистичный кофейный столик с чистыми линиями и прочной конструкцией.",
+      "features": [
+        "Минималистичный дизайн",
+        "Прочная конструкция",
+        "Легкость в уходе"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "TV Stand Elegant",
+      "price": 299.99,
+      "quantity": 9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2EJo1os5vT0RgLXERE3GWBV1hlLbvHVZvg&s",
+      "description": "Элегантная ТВ-тумба с местом для хранения и современным дизайном.",
+      "features": [
+        "Много места для хранения",
+        "Современный дизайн",
+        "Прочная конструкция"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Armchair Cozy",
+      "price": 199.99,
+      "quantity": 12,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxokJ1RKJ7yOSqzOZemUTeL5LiFqefgka_8w&s",
+      "description": "Уютное кресло с мягкой обивкой и поддержкой для спины. Идеально для отдыха.",
+      "features": [
+        "Мягкая обивка",
+        "Поддержка для спины",
+        "Уютное сидение"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Dining Chair Set of 4",
+      "price": 249.99,
+      "quantity": 11,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4grkbv2lUGr7Lz7UV48v4DPgNShSpAom69A&s",
+      "description": "Набор из 4 обеденных стульев с мягкой обивкой и прочной конструкцией.",
+      "features": [
+        "Мягкая обивка",
+        "Прочная конструкция",
+        "Стильный дизайн"
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "name": "Sofa Modern",
+      "price": 499.99,
+      "quantity": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYu-VZtgVAtiJtY0JXTHPH94hiTIcGN5G_w&s",
+      "description": "Современный диван с мягкой обивкой и стильным дизайном. Идеально подходит для гостиной.",
+      "features": [
+        "Высококачественная обивка",
+        "Стильный дизайн",
+        "Прочный каркас"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dining Table Set",
+      "price": 799.99,
+      "quantity": 5,
+      "image": "https://furniture123.co.uk/Images/BUNRNE00187524_1_Supersize.jpg?v=15",
+      "description": "Комплект обеденного стола и 6 стульев, выполненный из высококачественного дерева.",
+      "features": [
+        "Натуральное дерево",
+        "6 стульев в комплекте",
+        "Прочный и долговечный"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Office Chair Ergonomic",
+      "price": 249.99,
+      "quantity": 8,
+      "image": "https://media.4rgos.it/s/Argos/8340865_R_SET?$Main768$&w=620&h=620",
+      "description": "Эргономичное офисное кресло с поддержкой поясницы и регулируемой высотой.",
+      "features": [
+        "Поддержка поясницы",
+        "Регулируемая высота",
+        "Комфортное сидение"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Bookshelf Modern",
+      "price": 199.99,
+      "quantity": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDm7EJmE_dpKX2gzXnZGi8rLDhcyepKdrQw&s",
+      "description": "Современный книжный шкаф с множеством полок для хранения книг и декора.",
+      "features": [
+        "Множество полок",
+        "Современный дизайн",
+        "Прочная конструкция"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "name": "Office Chair Ergonomic",
+      "price": 249.99,
+      "quantity": 1,
+      "image": "https://media.4rgos.it/s/Argos/8340865_R_SET?$Main768$&w=620&h=620",
+      "description": "Эргономичное офисное кресло с поддержкой поясницы и регулируемой высотой.",
+      "features": [
+        "Поддержка поясницы",
+        "Регулируемая высота",
+        "Комфортное сидение"
+      ],
+      "feature": "Регулируемая высота"
+    },
+    {
+      "id": "5",
+      "name": "Bed King Size",
+      "price": 899.99,
+      "quantity": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmWwn-HIxqxhsEf19KZzXRYI4eYGyxjZang&s",
+      "description": "Кровать King Size с мягким изголовьем и прочным каркасом. Идеальна для комфортного сна.",
+      "features": [
+        "Мягкое изголовье",
+        "Прочный каркас",
+        "Большой размер"
+      ],
+      "feature": "Мягкое изголовье"
+    },
+    {
+      "id": "6",
+      "name": "Bookshelf Modern",
+      "price": 199.99,
+      "quantity": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDm7EJmE_dpKX2gzXnZGi8rLDhcyepKdrQw&s",
+      "description": "Современный книжный шкаф с множеством полок для хранения книг и декора.",
+      "features": [
+        "Множество полок",
+        "Современный дизайн",
+        "Прочная конструкция"
+      ],
+      "feature": "Прочная конструкция"
+    },
+    {
+      "id": "3",
+      "name": "Wardrobe Classic",
+      "price": 599.99,
+      "quantity": 1,
+      "image": "https://whitecompany.scene7.com/is/image/whitecompany/Classic-Large-Wardrobe/CLFLW_AW13_15_F?$D_PDP_412x412$",
+      "description": "Классический шкаф с 3 дверями и большим количеством места для хранения.",
+      "features": [
+        "Большое пространство для хранения",
+        "Классический дизайн",
+        "Прочные двери"
+      ],
+      "feature": "Большое пространство для хранения"
+    },
+    {
+      "id": "1",
+      "name": "Sofa Modern",
+      "price": 499.99,
+      "quantity": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYu-VZtgVAtiJtY0JXTHPH94hiTIcGN5G_w&s",
+      "description": "Современный диван с мягкой обивкой и стильным дизайном. Идеально подходит для гостиной.",
+      "features": [
+        "Высококачественная обивка",
+        "Стильный дизайн",
+        "Прочный каркас"
+      ],
+      "feature": "Прочный каркас"
+    },
+    {
+      "id": "2",
+      "name": "Dining Table Set",
+      "price": 799.99,
+      "quantity": 1,
+      "image": "https://furniture123.co.uk/Images/BUNRNE00187524_1_Supersize.jpg?v=15",
+      "description": "Комплект обеденного стола и 6 стульев, выполненный из высококачественного дерева.",
+      "features": [
+        "Натуральное дерево",
+        "6 стульев в комплекте",
+        "Прочный и долговечный"
+      ],
+      "feature": "6 стульев в комплекте"
+    },
+    {
+      "id": "3",
+      "name": "Wardrobe Classic",
+      "price": 599.99,
+      "quantity": 1,
+      "image": "https://whitecompany.scene7.com/is/image/whitecompany/Classic-Large-Wardrobe/CLFLW_AW13_15_F?$D_PDP_412x412$",
+      "description": "Классический шкаф с 3 дверями и большим количеством места для хранения.",
+      "features": [
+        "Большое пространство для хранения",
+        "Классический дизайн",
+        "Прочные двери"
+      ],
+      "feature": "Большое пространство для хранения"
+    },
+    {
+      "id": "6",
+      "name": "Bookshelf Modern",
+      "price": 199.99,
+      "quantity": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDm7EJmE_dpKX2gzXnZGi8rLDhcyepKdrQw&s",
+      "description": "Современный книжный шкаф с множеством полок для хранения книг и декора.",
+      "features": [
+        "Множество полок",
+        "Современный дизайн",
+        "Прочная конструкция"
+      ],
+      "feature": "Современный дизайн"
+    }
+  ],
+  "orders": [
+    {
+      "id": "0a29",
+      "address": "dsfsdfs",
+      "fullName": "fdsfsdf",
+      "paymentMethod": "payPal",
+      "cart": [],
+      "totalCost": 0
+    }
+  ]
+}
